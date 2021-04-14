@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/tx-fill-椭圆形.svg</file>
+        <file>assets/点.svg</file>
+        <file>assets/矩形.svg</file>
+        <file>assets/圆.svg</file>
+        <file>assets/直线.svg</file>
+        <file>assets/调色板.svg</file>
+        <file>assets/橡皮.svg</file>
+        <file>assets/下.svg</file>
+        <file>assets/清除.svg</file>
+    </qresource>
+</RCC>
